@@ -1,6 +1,8 @@
 # final_note
 Digitized and handwritten notes and cheatsheets (just a compressed note) for various subjects and disciplines
 
+**Warning**: The notes are designed for _revision_ purposes only, but not for learning from scratch. You (might) only understand what is going on in the notes after you have read through the actual course material.
+
 # HKU Decision Analytics UG Courses
 
 Notes are made for all COMP, ECON, MATH, STAT courses taken.
