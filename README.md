@@ -23,7 +23,7 @@ Notes are made for all COMP, ECON, MATH, STAT courses taken.
 |[SCNC1112](hku_scnc_cc/SCNC1112%20The%20Final%20Note.pdf)|1718 Sem 2|
 |STAT2601* [2-3](hku_stat/stat2601_handwritten_chapter2-3.pdf) [4-7](hku_stat/stat2601_handwritten_chapter4-7.pdf)|1718 Sem 2|
 |[STAT2602*](hku_stat/stat2602_handwritten.pdf)|1819 Sem 1|
-|STAT3600*|1819 Sem 2|
+|[STAT3600*](hku_stat/stat3600_handwritten.pdf)|1819 Sem 2|
 
 *MATH and STAT notes are handwritten, a major summarized digitized version is currently under development.
 
